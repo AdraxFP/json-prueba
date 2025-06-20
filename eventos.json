@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Inauguración de exposición maya",
+    "fecha": "2025-07-01",
+    "descripcion": "Un recorrido guiado por la nueva sala de cultura maya.",
+    "imagen_url": "https://example.com/img/maya.jpg"
+  },
+  {
+    "titulo": "Noche de Museo",
+    "fecha": "2025-07-15",
+    "descripcion": "Visita nocturna con actividades especiales para familias.",
+    "imagen_url": "https://example.com/img/noche.jpg"
+  },
+  {
+    "titulo": "Taller de cerámica ancestral",
+    "fecha": "2025-07-25",
+    "descripcion": "Aprende técnicas prehispánicas con artesanos invitados.",
+    "imagen_url": "https://example.com/img/ceramica.jpg"
+  }
+]
